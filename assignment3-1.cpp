@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-int classA;
-int classB;
-int classC;
+	int classA;
+	int classB;
+	int classC;
 
 int priceA = 15;
 int priceB = 12;
